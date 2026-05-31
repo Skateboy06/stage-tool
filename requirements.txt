@@ -1,0 +1,10 @@
+streamlit
+requests
+geopy
+openpyxl
+beautifulsoup4
+lxml
+folium
+streamlit-folium
+pandas
+supabase
